@@ -1,0 +1,12 @@
+# 不纳入版本管理
+pdf/
+*.pdf
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+_w_*/
+.DS_Store
+Thumbs.db
+desktop.ini
