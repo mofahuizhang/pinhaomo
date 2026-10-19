@@ -1,6 +1,6 @@
 import os, re, subprocess, shutil
 
-D = r"E:/七原语/6_发布/发布稿"
+D = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(D, "pdf")
 os.makedirs(OUT, exist_ok=True)
 
