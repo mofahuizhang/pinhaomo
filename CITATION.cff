@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "拼好模主篇·副篇（通典／别录）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/pinhaomo"
+keywords:
+  - 拼好模
+  - 多主体模块生态
+  - 五条件
+  - 生态宪法
+  - 赛道测算
+  - 健康守护
+  - 通典
